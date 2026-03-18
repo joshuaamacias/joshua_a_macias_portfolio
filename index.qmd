@@ -5,7 +5,7 @@ subtitle: "Data Science & Software Engineering Portfolio"
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="images/profile.jpg" width="200" style="border-radius: 12px;"/>
+<img src="Images/profile.jpg" width="200" style="border-radius: 12px;"/>
 
 <div>
 
