@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Joshua Macias - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
-  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
+  repo-url: https://github.com/your-github-username/your-github-username.github.io
+  # repo-actions: [issue]
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Joshua Macias 2026©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/your-linkedin-username/
 
   navbar:
     background: primary
@@ -28,7 +28,7 @@ website:
         file: cleansing.qmd
       - text: "Data Exploration"
         file: exploration.qmd
-      - text: "Story Telling"
+      - text: "Storytelling"
         file: story_telling.qmd
       - text: "Machine Learning"
         file: ml.qmd
@@ -36,9 +36,6 @@ website:
         file: full_stack.qmd
       - text: "Competitions"
         file: competition.qmd
-  
-  # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
-  # comment out any of the sections below to turn off the sidebar
 
   sidebar: 
     - title: "Data Cleansing"
@@ -57,6 +54,7 @@ website:
         - text: "Project 3"
           file: Cleansing_Projects/project3.qmd
         - text: "---"
+
     - title: "Data Exploration"
       style: "docked"
       background: light
@@ -73,11 +71,12 @@ website:
         - text: "Project 3"
           file: Cleansing_Exploration/project3.qmd
         - text: "---"
-    - title: "Story Telling"
+
+    - title: "Storytelling"
       style: "docked"
       background: light
       contents:
-        - text: "Story Telling"
+        - text: "Storytelling"
           file: story_telling.qmd
         - text: "---"
         - text: "Project 1"
@@ -89,6 +88,7 @@ website:
         - text: "Project 3"
           file: Story_Telling/project3.qmd
         - text: "---"
+
     - title: "Machine Learning"
       style: "docked"
       background: light
@@ -105,6 +105,7 @@ website:
         - text: "Project 3"
           file: Machine_Learning/project3.qmd
         - text: "---"
+
     - title: "Full Stack"
       style: "docked"
       background: light
@@ -118,11 +119,12 @@ website:
         - text: "Project 2"
           file: Full_Stack/project2.qmd
         - text: "---"
-    - title: "Competition"
+
+    - title: "Competitions"
       style: "docked"
       background: light
       contents:
-        - text: "Competition"
+        - text: "Competitions"
           file: competition.qmd
         - text: "---"
         - text: "Project 1"
@@ -135,16 +137,10 @@ website:
           file: Competition/project3.qmd
         - text: "---"
 
-  
 format:  
   html:
-    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+    theme:
+      light: flatly
       dark: darkly
-      #light: cosmo
-      #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-
-
