@@ -1,10 +1,54 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "Data Science & Software Engineering Portfolio"
 ---
 
-# Title 1 Header
-## Title 2 Header
+<div style="display: flex; align-items: center; gap: 30px;">
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+<img src="images/profile.jpg" width="200" style="border-radius: 12px;"/>
+
+<div>
+
+# Joshua Macias
+
+Software Engineering student with a Data Science minor, focused on building real world solutions through data analysis, visualization, and software development.
+
+I have experience working with large datasets, creating dashboards, and improving data integrity. I enjoy turning complex data into clear insights that help teams make better decisions.
+
+</div>
+</div>
+
+---
+
+## What I Do
+
+- Data Analysis and Visualization (Power BI, Python, R)
+- Software Development (C++, C#, JavaScript)
+- Database Management (SQL, Firestore)
+- Dashboard Design and Reporting
+- Data Cleaning and Validation
+
+---
+
+## Current Focus
+
+Right now I am focused on improving my skills in machine learning, full stack development, and building real projects that combine software engineering with data science.
+
+---
+
+## Projects
+
+You can explore my work in the sections above:
+- Data Cleansing
+- Data Exploration
+- Storytelling
+- Machine Learning
+- Full Stack
+
+---
+
+## Contact
+
+- Email: joshuamm@hotmail.es  
+- LinkedIn: https://www.linkedin.com/in/joshua-macias-01655017a/  
+- GitHub: https://github.com/joshuaamacias

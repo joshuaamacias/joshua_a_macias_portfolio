@@ -6,7 +6,7 @@
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Storytelling"
     ]
   },
   {
@@ -16,7 +16,7 @@
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Storytelling"
     ]
   },
   {
@@ -33,23 +33,23 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Joshua Macias’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Software Engineering Student with a Data Science Minor. Experience in data integrity, data visualization, student records operations, and dashboard development.\n\njoshuamm@hotmail.es | (208) 809-9164 | LinkedIn | GitHub\n\n\n\nBachelor of Science in Software Engineering student at Brigham Young University Idaho, building experience in software development, data analysis, visualization, and data driven decision making.\n\n\nData integrity, dashboard development, data visualization, student records systems, software engineering, and cross functional collaboration.\n\n\n\nData analytics, machine learning, software design, database systems, visualization, and full stack development.\n\n\n\n\nJanuary 2023 - April 2027 Brigham Young University - Idaho, Rexburg, Idaho\n\nBachelor of Science in Software Engineering\nData Science Minor\nRelevant coursework: Data Structures and Algorithms, Database Systems, Software Design Patterns, Probability and Statistics, Machine Learning Fundamentals, Data Visualization\n\n\n\n\nAugust 2025 - Present Data Integrity Team Lead, Student Records & Registration, Rexburg, Idaho\n\nOwned identification and correction of data inconsistencies across 15,000+ student transcript records\nInitiated and facilitated weekly meetings to analyze and solve 10+ demographic and educational record tickets\nDesigned, built, and executed queries to flag inaccurate transcript and course transfer data\nReviewed and resolved 10+ records per week, improving coordination and turnaround time\n\nMay 2025 - December 2025 Data Visualization Specialist, Student Records & Registration, Rexburg, Idaho\n\nLed the design and development of 25+ interactive Power BI dashboards for university departments\nCollaborated with 25+ teams to extract, analyze, and visualize data\nTranslated complex datasets into actionable insights for decision making\nStandardized daily data validation and error checking processes to improve dataset reliability\n\nNovember 2024 - May 2025 Student Records and Registration Specialist, Student Records & Registration, Rexburg, Idaho\n\nStreamlined scheduling processes for 45+ assistants\nManaged 30k+ confidential student records in compliance with FERPA and institutional policies\nResolved 25+ time sensitive enrollment issues with 100% accuracy\n\nSeptember 2023 - September 2024 Food Services Team Lead, Brigham Young University - Idaho, Rexburg, Idaho\n\nLed a 10 person team during high demand shifts\nMaintained customer service and operational standards\nOnboarded and trained 10+ new employees per semester on safety and operations\n\n\n\n\nJune 2025 - July 2025 Min-Max Inventory System\nReact Native, Firebase\n\nDesigned and deployed a mobile inventory tracker with real time sync through Firestore in 2 weeks\nEnabled suppliers to update product stock daily\nImplemented alerts using Firebase Cloud Functions\n\n\n\n\n\n\nPython, C++, C#, R\n\n\n\nMySQL, PostgreSQL, Firestore\n\n\n\nHTML, Advanced CSS, Modern CSS, JavaScript\n\n\n\nPower BI, data validation, dashboard design, bilingual English and Spanish, prompt engineering, leadership, conflict resolution, team collaboration"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Joshua Macias’s CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Bachelor of Science in Software Engineering student at Brigham Young University Idaho, building experience in software development, data analysis, visualization, and data driven decision making.\n\n\nData integrity, dashboard development, data visualization, student records systems, software engineering, and cross functional collaboration.\n\n\n\nData analytics, machine learning, software design, database systems, visualization, and full stack development."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Joshua Macias’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "January 2023 - April 2027 Brigham Young University - Idaho, Rexburg, Idaho\n\nBachelor of Science in Software Engineering\nData Science Minor\nRelevant coursework: Data Structures and Algorithms, Database Systems, Software Design Patterns, Probability and Statistics, Machine Learning Fundamentals, Data Visualization"
   },
   {
     "objectID": "resume.html#awards",
@@ -300,9 +300,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Software Engineering student with a Data Science minor, focused on building real world solutions through data analysis, visualization, and software development.\nI have experience working with large datasets, creating dashboards, and improving data integrity. I enjoy turning complex data into clear insights that help teams make better decisions."
   },
   {
     "objectID": "index.html#title-2-header",
@@ -363,5 +363,54 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Joshua Macias’s CV",
+    "section": "",
+    "text": "August 2025 - Present Data Integrity Team Lead, Student Records & Registration, Rexburg, Idaho\n\nOwned identification and correction of data inconsistencies across 15,000+ student transcript records\nInitiated and facilitated weekly meetings to analyze and solve 10+ demographic and educational record tickets\nDesigned, built, and executed queries to flag inaccurate transcript and course transfer data\nReviewed and resolved 10+ records per week, improving coordination and turnaround time\n\nMay 2025 - December 2025 Data Visualization Specialist, Student Records & Registration, Rexburg, Idaho\n\nLed the design and development of 25+ interactive Power BI dashboards for university departments\nCollaborated with 25+ teams to extract, analyze, and visualize data\nTranslated complex datasets into actionable insights for decision making\nStandardized daily data validation and error checking processes to improve dataset reliability\n\nNovember 2024 - May 2025 Student Records and Registration Specialist, Student Records & Registration, Rexburg, Idaho\n\nStreamlined scheduling processes for 45+ assistants\nManaged 30k+ confidential student records in compliance with FERPA and institutional policies\nResolved 25+ time sensitive enrollment issues with 100% accuracy\n\nSeptember 2023 - September 2024 Food Services Team Lead, Brigham Young University - Idaho, Rexburg, Idaho\n\nLed a 10 person team during high demand shifts\nMaintained customer service and operational standards\nOnboarded and trained 10+ new employees per semester on safety and operations"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Joshua Macias’s CV",
+    "section": "",
+    "text": "June 2025 - July 2025 Min-Max Inventory System\nReact Native, Firebase\n\nDesigned and deployed a mobile inventory tracker with real time sync through Firestore in 2 weeks\nEnabled suppliers to update product stock daily\nImplemented alerts using Firebase Cloud Functions"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Joshua Macias’s CV",
+    "section": "",
+    "text": "Python, C++, C#, R\n\n\n\nMySQL, PostgreSQL, Firestore\n\n\n\nHTML, Advanced CSS, Modern CSS, JavaScript\n\n\n\nPower BI, data validation, dashboard design, bilingual English and Spanish, prompt engineering, leadership, conflict resolution, team collaboration"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "About Me",
+    "section": "What I Do",
+    "text": "What I Do\n\nData Analysis and Visualization (Power BI, Python, R)\nSoftware Development (C++, C#, JavaScript)\nDatabase Management (SQL, Firestore)\nDashboard Design and Reporting\nData Cleaning and Validation"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "About Me",
+    "section": "Current Focus",
+    "text": "Current Focus\nRight now I am focused on improving my skills in machine learning, full stack development, and building real projects that combine software engineering with data science."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "About Me",
+    "section": "Projects",
+    "text": "Projects\nYou can explore my work in the sections above: - Data Cleansing - Data Exploration - Storytelling - Machine Learning - Full Stack"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: joshuamm@hotmail.es\n\nLinkedIn: https://www.linkedin.com/in/joshua-macias-01655017a/\n\nGitHub: https://github.com/joshuaamacias"
   }
 ]

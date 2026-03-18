@@ -1,89 +1,95 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joshua Macias's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Joshua Macias
+Software Engineering Student with a Data Science Minor. Experience in data integrity, data visualization, student records operations, and dashboard development.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:joshuamm@hotmail.es">joshuamm@hotmail.es</a>
+| (208) 809-9164
+| <a href="https://www.linkedin.com/in/joshua-macias-01655017a/">LinkedIn</a>
+| <a href="https://github.com/joshuaamacias">GitHub</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Bachelor of Science in Software Engineering student at Brigham Young University Idaho, building experience in software development, data analysis, visualization, and data driven decision making.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data integrity, dashboard development, data visualization, student records systems, software engineering, and cross functional collaboration.
 
+### Technical interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Data analytics, machine learning, software design, database systems, visualization, and full stack development.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`January 2023 - April 2027`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Science in Software Engineering
+- Data Science Minor
+- Relevant coursework: Data Structures and Algorithms, Database Systems, Software Design Patterns, Probability and Statistics, Machine Learning Fundamentals, Data Visualization
 
-- Sizar
+## Professional Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`August 2025 - Present`
+__Data Integrity Team Lead__, Student Records & Registration, Rexburg, Idaho
 
-- Fellow
+- Owned identification and correction of data inconsistencies across 15,000+ student transcript records
+- Initiated and facilitated weekly meetings to analyze and solve 10+ demographic and educational record tickets
+- Designed, built, and executed queries to flag inaccurate transcript and course transfer data
+- Reviewed and resolved 10+ records per week, improving coordination and turnaround time
 
+`May 2025 - December 2025`
+__Data Visualization Specialist__, Student Records & Registration, Rexburg, Idaho
 
+- Led the design and development of 25+ interactive Power BI dashboards for university departments
+- Collaborated with 25+ teams to extract, analyze, and visualize data
+- Translated complex datasets into actionable insights for decision making
+- Standardized daily data validation and error checking processes to improve dataset reliability
 
-## Awards
+`November 2024 - May 2025`
+__Student Records and Registration Specialist__, Student Records & Registration, Rexburg, Idaho
 
-`2012`
-President, *Royal Society*, London, UK
+- Streamlined scheduling processes for 45+ assistants
+- Managed 30k+ confidential student records in compliance with FERPA and institutional policies
+- Resolved 25+ time sensitive enrollment issues with 100% accuracy
 
-Associate, *French Academy of Science*, Paris, France
+`September 2023 - September 2024`
+__Food Services Team Lead__, Brigham Young University - Idaho, Rexburg, Idaho
 
+- Led a 10 person team during high demand shifts
+- Maintained customer service and operational standards
+- Onboarded and trained 10+ new employees per semester on safety and operations
 
+## Projects
 
-## Publications
+`June 2025 - July 2025`
+__Min-Max Inventory System__  
+React Native, Firebase
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Designed and deployed a mobile inventory tracker with real time sync through Firestore in 2 weeks
+- Enabled suppliers to update product stock daily
+- Implemented alerts using Firebase Cloud Functions
 
-### Journals
+## Skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Programming
 
-`1669`
-Lectiones opticæ.
+Python, C++, C#, R
 
-etc. etc. etc.
+### Databases
 
-### Patents
+MySQL, PostgreSQL, Firestore
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Web Development
 
+HTML, Advanced CSS, Modern CSS, JavaScript
 
-## Occupation
+### Tools and Strengths
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Power BI, data validation, dashboard design, bilingual English and Spanish, prompt engineering, leadership, conflict resolution, team collaboration
